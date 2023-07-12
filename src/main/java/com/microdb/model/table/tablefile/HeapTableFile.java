@@ -1,9 +1,11 @@
 package com.microdb.model.table.tablefile;
 
 import com.microdb.exception.DbException;
+import com.microdb.model.DataBase;
 import com.microdb.model.page.Page;
 import com.microdb.model.page.PageID;
 import com.microdb.model.page.heap.HeapPage;
+import com.microdb.model.page.heap.HeapPageID;
 import com.microdb.model.row.Row;
 import com.microdb.model.table.TableDesc;
 
