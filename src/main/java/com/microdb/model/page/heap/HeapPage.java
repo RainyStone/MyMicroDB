@@ -1,6 +1,7 @@
 package com.microdb.model.page.heap;
 
 import com.microdb.exception.DbException;
+import com.microdb.model.DataBase;
 import com.microdb.model.field.Field;
 import com.microdb.model.page.DirtyPage;
 import com.microdb.model.page.Page;
